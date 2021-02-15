@@ -20,11 +20,11 @@ Kotlin, MVVM, Clean Architecture, Hilt, Architecture Component, Coroutines, Kotl
 
 - Server
   
-  <img title="" src="Screenshot/sample-server.png" alt="" width="653">
+  ![](Screenshot/sample-server.png)
 
 - Splash
   
-  <img src="Screenshot/sample-splash.jpg" title="" alt="" width="221">
+  ![](Screenshot/sample-splash.jpg)
 
 - Text
   
