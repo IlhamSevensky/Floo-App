@@ -12,7 +12,7 @@
 
 ###### Built using :
 
-Kotlin, MVVM, Clean Architecture, Hilt, Architecture Component, Coroutines, Kotlin Flow, Paho MQTT,  MPChartAndroid.
+Kotlin, MVVM, Clean Architecture, Hilt, Architecture Component, Coroutines, Kotlin Flow, Paho MQTT,  MPChartAndroid, Kotlin DSL.
 
 ---
 
