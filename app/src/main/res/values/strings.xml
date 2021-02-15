@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Floo</string>
+    <string name="label_water_distance">Jarak air ke permukaan :</string>
+    <string name="label_status">Status :</string>
+    <string name="label_realtime_graph">Jarak ke permukaan (cm)</string>
+    <string name="toast_water_distance_chart_value">Jarak ke permukaan : %1$.1f cm pada jam %2$s</string>
+</resources>
